@@ -34,7 +34,7 @@ body {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  bottom: 12vh;                 /* posição fixa do conteúdo */
+  bottom: 12vh;        /* posição fixa do conteúdo */
   width: 88%;
   max-width: 380px;
   text-align: center;
@@ -84,7 +84,7 @@ body {
 /* Ajuste para telas muito pequenas (ex.: celulares antigos) */
 @media (max-width: 360px) {
   .content {
-    bottom: 12vh;
+    bottom: 10vh;
     width: 92%;
   }
   .btn-salvar {
