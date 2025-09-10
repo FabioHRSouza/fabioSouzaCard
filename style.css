@@ -34,7 +34,7 @@ body {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  bottom: 16vh;        /* posição fixa do conteúdo */
+  bottom: 10vh;        /* posição fixa do conteúdo */
   width: 88%;
   max-width: 380px;
   text-align: center;
